@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/736x/e9/31/b0/e931b043748ce035ccbde0273e5ca3dd.jpg)]
+![MasterHead](https://i.pinimg.com/736x/e9/31/b0/e931b043748ce035ccbde0273e5ca3dd.jpg)
 <h1 align="center">Hi 👋, I'm Diganta Sarkar</h1>
 <h3 align="center">Shaping the Future of Finance and Technology with Innovation and Strategy</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/grunge-indie-rad-9mJwt7U9UraMM.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/18/e0/d418e0ff77be2cc891e08727a9b31a7d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dig1nt1&label=Profile%20views&color=0e75b6&style=flat" alt="dig1nt1" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **FinTech**
 
-- 🤝 I’m looking for help with **AI-driven trading systems, blockchain integration, and advanced financial modeling**
+- 🤝 I’m looking for help with **Advanced financial modeling**
 
 - 💬 Ask me about **Anything about Finance**
 
