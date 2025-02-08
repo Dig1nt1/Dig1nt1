@@ -31,11 +31,11 @@ jobs:
 
       # Commit and push changes
       - name: Commit and Push Changes
-        uses: actions-x/commit@v7
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Automated update - Generated Snake GIF"
           branch: master
-          message: "Automated update - Generated Snake GIF"
+          push_options: --force
 
       # Deploy the generated files to GitHub Pages
       - name: Deploy to GitHub Pages
