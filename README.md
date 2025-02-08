@@ -37,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerrahulofficial&show_icons=true&locale=en&layout=compact" alt="developerrahulofficial" /></p>
 
-
+![snake gif](https://github.com/Dig1nt1/Dig1nt1/blob/output/github-snake.svg)
 
 
