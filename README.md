@@ -22,9 +22,6 @@
 - ⚡ Fun fact **I can drink an entire cup of coffee and still fall asleep in 10 minutes.**
 
 
-https://github.com/user-attachments/assets/1fac2243-8750-4edb-a2a2-95f5d0be1765
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/diganta_bc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diganta_bc" height="30" width="40" /></a>
