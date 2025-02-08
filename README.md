@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/736x/e9/31/b0/e931b043748ce035ccbde0273e5ca3dd.jpg)]
 <h1 align="center">Hi 👋, I'm Diganta Sarkar</h1>
 <h3 align="center">Shaping the Future of Finance and Technology with Innovation and Strategy</h3>
-(img align="right" alt="Coding" width="400" src="https://v1.pinimg.com/videos/mc/720p/89/d7/4a/89d74ac7481595d1430d9efbb0ba67f3.mp4")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/grunge-indie-rad-9mJwt7U9UraMM")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dig1nt1&label=Profile%20views&color=0e75b6&style=flat" alt="dig1nt1" /> </p>
 
